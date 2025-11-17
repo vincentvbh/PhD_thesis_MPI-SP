@@ -1,0 +1,21 @@
+======== dilithium/obj/dilithium2_old_speed ========
+crypto_sign_keypair average cycles:
+98168
+crypto_sign average cycles:
+315244
+crypto_sign_open average cycles:
+107895
+======== dilithium/obj/dilithium3_old_speed ========
+crypto_sign_keypair average cycles:
+167775
+crypto_sign average cycles:
+505007
+crypto_sign_open average cycles:
+173433
+======== dilithium/obj/dilithium5_old_speed ========
+crypto_sign_keypair average cycles:
+265611
+crypto_sign average cycles:
+604048
+crypto_sign_open average cycles:
+270500

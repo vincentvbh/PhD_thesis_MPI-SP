@@ -1,0 +1,170 @@
+speed_local measurements written on 2024-12-08 00:03:04.579169+00:00
+
+results for lightsaber (impl=old_tc)
+polymul cycles:
+89590
+Inner product speed opt cycles:
+180655
+MatrixVectorMul speed opt cycles:
+361260
+
+results for lightsaber (impl=old_32bit)
+Constant-time 32-bit NTT cycles:
+31707
+Variable-time 32-bit NTT cycles:
+19949
+Constant-time 32-bit base_mul cycles:
+8530
+Constant-time 32-bit iNTT cycles:
+38027
+32-bit MatrixVectorMul speed opt cycles:
+300876
+32-bit InnderProd (Encrypt) speed opt cycles:
+118805
+32-bit InnderProd (Decrypt) speed opt cycles:
+182120
+
+results for lightsaber (impl=old_16bit)
+two 16-bit NTTs cycles:
+16779
+two 16-bit base_mul cycles:
+11933
+two 16-bit iNTT cycles:
+19058
+16x16 CRT cycles:
+4638
+16-bit MatrixVectorMul speed opt cycles:
+199202
+16-bit InnderProd (Encrypt) speed opt cycles:
+82906
+16-bit InnderProd (Decrypt) speed opt cycles:
+116350
+
+results for lightsaber (impl=opt)
+Hom_M cycles:
+15803
+Hom_V cycles:
+7856
+BiHom cycles:
+11257
+Hom_I cycles:
+10881
+Matrix-vector multiplication:
+136462
+Inner product (Enc):
+52479
+Inner product (Dec):
+83985
+
+results for saber (impl=old_tc)
+polymul cycles:
+89591
+Inner product speed opt cycles:
+271744
+MatrixVectorMul speed opt cycles:
+815146
+
+results for saber (impl=old_32bit)
+Constant-time 32-bit NTT cycles:
+31707
+Variable-time 32-bit NTT cycles:
+19946
+Constant-time 32-bit base_mul cycles:
+8530
+Constant-time 32-bit iNTT cycles:
+38027
+32-bit MatrixVectorMul speed opt cycles:
+573300
+32-bit InnderProd (Encrypt) speed opt cycles:
+159472
+32-bit InnderProd (Decrypt) speed opt cycles:
+254430
+
+results for saber (impl=old_16bit)
+two 16-bit NTTs cycles:
+16779
+two 16-bit base_mul cycles:
+11931
+two 16-bit iNTT cycles:
+19059
+16x16 CRT cycles:
+4636
+16-bit MatrixVectorMul speed opt cycles:
+390762
+16-bit InnderProd (Encrypt) speed opt cycles:
+113562
+16-bit InnderProd (Decrypt) speed opt cycles:
+163716
+
+results for saber (impl=opt)
+Hom_M cycles:
+15733
+Hom_V cycles:
+7833
+BiHom cycles:
+10963
+Hom_I cycles:
+10689
+Matrix-vector multiplication:
+271605
+Inner product (Enc):
+74885
+Inner product (Dec):
+121932
+
+results for firesaber (impl=old_tc)
+polymul cycles:
+89591
+Inner product speed opt cycles:
+362819
+MatrixVectorMul speed opt cycles:
+1451149
+
+results for firesaber (impl=old_32bit)
+Constant-time 32-bit NTT cycles:
+31707
+Variable-time 32-bit NTT cycles:
+19969
+Constant-time 32-bit base_mul cycles:
+8530
+Constant-time 32-bit iNTT cycles:
+38027
+32-bit MatrixVectorMul speed opt cycles:
+927003
+32-bit InnderProd (Encrypt) speed opt cycles:
+200126
+32-bit InnderProd (Decrypt) speed opt cycles:
+326737
+
+results for firesaber (impl=old_16bit)
+two 16-bit NTTs cycles:
+16777
+two 16-bit base_mul cycles:
+11930
+two 16-bit iNTT cycles:
+19057
+16x16 CRT cycles:
+4636
+16-bit MatrixVectorMul speed opt cycles:
+643587
+16-bit InnderProd (Encrypt) speed opt cycles:
+144200
+16-bit InnderProd (Decrypt) speed opt cycles:
+211088
+
+results for firesaber (impl=opt)
+Hom_M cycles:
+15644
+Hom_V cycles:
+7856
+BiHom cycles:
+10835
+Hom_I cycles:
+10812
+Matrix-vector multiplication:
+455527
+Inner product (Enc):
+98328
+Inner product (Dec):
+160703
+

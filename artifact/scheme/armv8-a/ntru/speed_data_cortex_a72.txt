@@ -1,0 +1,49 @@
+======== ntru/obj/ntruhps2048677_old_speed ========
+crypto_kem_keypair median cycles:
+8308232
+crypto_kem_enc median cycles:
+110511
+crypto_kem_dec median cycles:
+207834
+======== ntru/obj/ntruhps2048677_opt_tc_speed ========
+crypto_kem_keypair median cycles:
+1146348
+crypto_kem_enc median cycles:
+90976
+crypto_kem_dec median cycles:
+149769
+======== ntru/obj/ntruhps2048677_opt_tmvp_speed ========
+crypto_kem_keypair median cycles:
+1022006
+crypto_kem_enc median cycles:
+81976
+crypto_kem_dec median cycles:
+122050
+======== ntru/obj/ntruhps2048677_opt_speed ========
+crypto_kem_keypair median cycles:
+840025
+crypto_kem_enc median cycles:
+81699
+crypto_kem_dec median cycles:
+121611
+======== ntru/obj/ntruhrss701_old_speed ========
+crypto_kem_keypair median cycles:
+8837561
+crypto_kem_enc median cycles:
+87291
+crypto_kem_dec median cycles:
+222199
+======== ntru/obj/ntruhrss701_opt_tmvp_speed ========
+crypto_kem_keypair median cycles:
+1076673
+crypto_kem_enc median cycles:
+59692
+crypto_kem_dec median cycles:
+142807
+======== ntru/obj/ntruhrss701_opt_speed ========
+crypto_kem_keypair median cycles:
+895154
+crypto_kem_enc median cycles:
+58986
+crypto_kem_dec median cycles:
+142241

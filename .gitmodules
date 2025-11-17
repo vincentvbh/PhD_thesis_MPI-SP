@@ -1,0 +1,6 @@
+[submodule "artifact/common/armv7-m/libopencm3"]
+	path = artifact/common/armv7-m/libopencm3
+	url = https://github.com/libopencm3/libopencm3.git
+[submodule "artifact/common/armv7e-m/libopencm3"]
+	path = artifact/common/armv7e-m/libopencm3
+	url = https://github.com/libopencm3/libopencm3.git

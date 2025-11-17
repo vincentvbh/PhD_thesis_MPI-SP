@@ -1,0 +1,35 @@
+======== ntrup/obj/sntrup761_opt_gt_speed ========
+crypto_kem_keypair median cycles:
+6658781
+crypto_kem_enc median cycles:
+158989
+crypto_kem_dec median cycles:
+182769
+======== ntrup/obj/sntrup761_opt_schoenhage_speed ========
+crypto_kem_keypair median cycles:
+6655488
+crypto_kem_enc median cycles:
+162240
+crypto_kem_dec median cycles:
+193993
+======== ntrup/obj/sntrup761_opt_rader_speed ========
+crypto_kem_keypair median cycles:
+6611131
+crypto_kem_enc median cycles:
+150496
+crypto_kem_dec median cycles:
+158711
+======== ntrup/obj/sntrup761_opt_truncated_rader_speed ========
+crypto_kem_keypair median cycles:
+6587485
+crypto_kem_enc median cycles:
+141303
+crypto_kem_dec median cycles:
+135169
+======== ntrup/obj/sntrup761_opt_speed ========
+crypto_kem_keypair median cycles:
+6275953
+crypto_kem_enc median cycles:
+140329
+crypto_kem_dec median cycles:
+134647

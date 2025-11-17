@@ -1,0 +1,42 @@
+======== kyber/obj/kyber512_old_speed ========
+crypto_kem_keypair median cycles:
+64209
+crypto_kem_enc median cycles:
+67831
+crypto_kem_dec median cycles:
+78352
+======== kyber/obj/kyber512_opt_speed ========
+crypto_kem_keypair median cycles:
+62919
+crypto_kem_enc median cycles:
+64551
+crypto_kem_dec median cycles:
+73975
+======== kyber/obj/kyber768_old_speed ========
+crypto_kem_keypair median cycles:
+102660
+crypto_kem_enc median cycles:
+115980
+crypto_kem_dec median cycles:
+130524
+======== kyber/obj/kyber768_opt_speed ========
+crypto_kem_keypair median cycles:
+100299
+crypto_kem_enc median cycles:
+110625
+crypto_kem_dec median cycles:
+124081
+======== kyber/obj/kyber1024_old_speed ========
+crypto_kem_keypair median cycles:
+163382
+crypto_kem_enc median cycles:
+174394
+crypto_kem_dec median cycles:
+194933
+======== kyber/obj/kyber1024_opt_speed ========
+crypto_kem_keypair median cycles:
+160421
+crypto_kem_enc median cycles:
+167420
+crypto_kem_dec median cycles:
+186949

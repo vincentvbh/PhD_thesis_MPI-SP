@@ -1,0 +1,17 @@
+profile_hashing measurements written on 2024-12-08 12:45:51.587111+00:00; iterations=100
+
+results for lightsaber (impl=old_tmvp)
+lightsaberold_tmvpkeygen hashing: 213k
+lightsaberold_tmvpencap hashing: 298k
+lightsaberold_tmvpdecap hashing: 234k
+
+results for saber (impl=old_tmvp)
+saberold_tmvpkeygen hashing: 389k
+saberold_tmvpencap hashing: 505k
+saberold_tmvpdecap hashing: 410k
+
+results for firesaber (impl=old_tmvp)
+firesaberold_tmvpkeygen hashing: 586k
+firesaberold_tmvpencap hashing: 722k
+firesaberold_tmvpdecap hashing: 606k
+

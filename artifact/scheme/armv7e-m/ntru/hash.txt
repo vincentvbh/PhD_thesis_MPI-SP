@@ -1,0 +1,12 @@
+profile_hashing measurements written on 2024-12-08 12:49:15.383778+00:00; iterations=100
+
+results for ntruhps2048677 (impl=old_1536)
+ntruhps2048677old_1536keygen hashing: 0
+ntruhps2048677old_1536encap hashing: 32k
+ntruhps2048677old_1536decap hashing: 116k
+
+results for ntruhrss701 (impl=old_1536)
+ntruhrss701old_1536keygen hashing: 0
+ntruhrss701old_1536encap hashing: 32k
+ntruhrss701old_1536decap hashing: 126k
+

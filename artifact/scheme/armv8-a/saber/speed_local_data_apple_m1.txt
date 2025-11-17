@@ -1,0 +1,60 @@
+======== saber/obj/lightsaber_old_tc_speed_local ========
+MatrixVectorMul average cycles:
+6568
+InnerProd average cycles:
+3181
+======== saber/obj/lightsaber_old_speed_local ========
+NTT average cycles:
+301
+NTT heavy average cycles:
+411
+asymmetric_mul average cycles:
+566
+iNTT average cycles:
+390
+Matrix vector multiplication average cycles:
+3938
+InnerProd(Enc) average cycles:
+1558
+InnerProd(Dec) average cycles:
+2377
+======== saber/obj/saber_old_tc_speed_local ========
+MatrixVectorMul average cycles:
+12970
+InnerProd average cycles:
+4248
+======== saber/obj/saber_old_speed_local ========
+NTT average cycles:
+301
+NTT heavy average cycles:
+411
+asymmetric_mul average cycles:
+800
+iNTT average cycles:
+390
+Matrix vector multiplication average cycles:
+7570
+InnerProd(Enc) average cycles:
+2092
+InnerProd(Dec) average cycles:
+3381
+======== saber/obj/firesaber_old_tc_speed_local ========
+MatrixVectorMul average cycles:
+21336
+InnerProd average cycles:
+5323
+======== saber/obj/firesaber_old_speed_local ========
+NTT average cycles:
+301
+NTT heavy average cycles:
+411
+asymmetric_mul average cycles:
+1021
+iNTT average cycles:
+390
+Matrix vector multiplication average cycles:
+12079
+InnerProd(Enc) average cycles:
+2612
+InnerProd(Dec) average cycles:
+4253

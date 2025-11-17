@@ -1,0 +1,62 @@
+speed measurements written on 2024-12-04 19:52:20.827886+00:00; iterations=100
+
+results for lightsaber (impl=old_tc)
+lightsaberold_tckeygen: 625k
+lightsaberold_tcencap: 894k
+lightsaberold_tcdecap: 1021k
+
+results for lightsaber (impl=old_32bit)
+lightsaberold_32bitkeygen: 512k
+lightsaberold_32bitencap: 696k
+lightsaberold_32bitdecap: 795k
+
+results for lightsaber (impl=old_16bit)
+lightsaberold_16bitkeygen: 458k
+lightsaberold_16bitencap: 629k
+lightsaberold_16bitdecap: 686k
+
+results for lightsaber (impl=opt)
+lightsaberoptkeygen: 391k
+lightsaberoptencap: 535k
+lightsaberoptdecap: 567k
+
+results for saber (impl=old_tc)
+saberold_tckeygen: 1284k
+saberold_tcencap: 1671k
+saberold_tcdecap: 1861k
+
+results for saber (impl=old_32bit)
+saberold_32bitkeygen: 924k
+saberold_32bitencap: 1167k
+saberold_32bitdecap: 1296k
+
+results for saber (impl=old_16bit)
+saberold_16bitkeygen: 847k
+saberold_16bitencap: 1080k
+saberold_16bitdecap: 1153k
+
+results for saber (impl=opt)
+saberoptkeygen: 728k
+saberoptencap: 919k
+saberoptdecap: 962k
+
+results for firesaber (impl=old_tc)
+firesaberold_tckeygen: 2156k
+firesaberold_tcencap: 2650k
+firesaberold_tcdecap: 2912k
+
+results for firesaber (impl=old_32bit)
+firesaberold_32bitkeygen: 1421k
+firesaberold_32bitencap: 1713k
+firesaberold_32bitdecap: 1881k
+
+results for firesaber (impl=old_16bit)
+firesaberold_16bitkeygen: 1327k
+firesaberold_16bitencap: 1609k
+firesaberold_16bitdecap: 1709k
+
+results for firesaber (impl=opt)
+firesaberoptkeygen: 1125k
+firesaberoptencap: 1358k
+firesaberoptdecap: 1424k
+

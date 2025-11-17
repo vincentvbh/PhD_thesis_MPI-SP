@@ -1,0 +1,47 @@
+speed measurements written on 2024-12-06 21:07:57.518460+00:00; iterations=100
+
+results for kyber512 (impl=ref)
+kyber512refkeygen: 609k
+kyber512refencap: 722k
+kyber512refdecap: 913k
+
+results for kyber512 (impl=old)
+kyber512oldkeygen: 447k
+kyber512oldencap: 442k
+kyber512olddecap: 507k
+
+results for kyber512 (impl=opt)
+kyber512optkeygen: 447k
+kyber512optencap: 435k
+kyber512optdecap: 498k
+
+results for kyber768 (impl=ref)
+kyber768refkeygen: 1013k
+kyber768refencap: 1145k
+kyber768refdecap: 1395k
+
+results for kyber768 (impl=old)
+kyber768oldkeygen: 730k
+kyber768oldencap: 742k
+kyber768olddecap: 831k
+
+results for kyber768 (impl=opt)
+kyber768optkeygen: 730k
+kyber768optencap: 733k
+kyber768optdecap: 819k
+
+results for kyber1024 (impl=ref)
+kyber1024refkeygen: 1519k
+kyber1024refencap: 1703k
+kyber1024refdecap: 2005k
+
+results for kyber1024 (impl=old)
+kyber1024oldkeygen: 1152k
+kyber1024oldencap: 1159k
+kyber1024olddecap: 1274k
+
+results for kyber1024 (impl=opt)
+kyber1024optkeygen: 1152k
+kyber1024optencap: 1146k
+kyber1024optdecap: 1260k
+

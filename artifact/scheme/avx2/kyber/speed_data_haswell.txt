@@ -1,0 +1,42 @@
+======== kyber/obj/kyber512_old_speed ========
+crypto_kem_keypair average cycles:
+26514
+crypto_kem_enc average cycles:
+28552
+crypto_kem_dec average cycles:
+31888
+======== kyber/obj/kyber512_opt_speed ========
+crypto_kem_keypair average cycles:
+26389
+crypto_kem_enc average cycles:
+28477
+crypto_kem_dec average cycles:
+31800
+======== kyber/obj/kyber768_old_speed ========
+crypto_kem_keypair average cycles:
+45922
+crypto_kem_enc average cycles:
+45545
+crypto_kem_dec average cycles:
+49966
+======== kyber/obj/kyber768_opt_speed ========
+crypto_kem_keypair average cycles:
+45546
+crypto_kem_enc average cycles:
+45280
+crypto_kem_dec average cycles:
+49837
+======== kyber/obj/kyber1024_old_speed ========
+crypto_kem_keypair average cycles:
+62923
+crypto_kem_enc average cycles:
+64555
+crypto_kem_dec average cycles:
+71311
+======== kyber/obj/kyber1024_opt_speed ========
+crypto_kem_keypair average cycles:
+62944
+crypto_kem_enc average cycles:
+64692
+crypto_kem_dec average cycles:
+71298

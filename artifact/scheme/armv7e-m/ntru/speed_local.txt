@@ -1,0 +1,26 @@
+speed_local measurements written on 2024-12-07 11:03:59.125263+00:00
+
+results for ntruhps2048677 (impl=old_1536)
+TMVP cycles:
+144825
+NTT polymul cycles:
+148438
+
+results for ntruhps2048677 (impl=old_1440)
+TMVP cycles:
+144825
+NTT polymul cycles:
+141120
+
+results for ntruhrss701 (impl=old_1536)
+TMVP cycles:
+145029
+NTT polymul cycles:
+148838
+
+results for ntruhrss701 (impl=old_1440)
+TMVP cycles:
+145029
+NTT polymul cycles:
+141250
+

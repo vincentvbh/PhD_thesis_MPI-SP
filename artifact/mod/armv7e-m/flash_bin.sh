@@ -1,0 +1,1 @@
+../../common/armv7e-m/flash_bin.sh

@@ -1,0 +1,68 @@
+speed_local measurements written on 2024-12-07 11:03:04.762461+00:00
+
+results for lightsaber (impl=old_tmvp)
+polymul:
+28524
+MatrixVectorMul:
+121801
+InnerProd:
+60792
+
+results for lightsaber (impl=old_speed)
+NTT cycles:
+5861
+basemul cycles:
+4189
+iNTT cycles:
+7196
+Matrix-vector multiplication:
+68884
+Inner product (Enc):
+28649
+Inner product (Dec):
+40265
+
+results for saber (impl=old_tmvp)
+polymul:
+28524
+MatrixVectorMul:
+273412
+InnerProd:
+91141
+
+results for saber (impl=old_speed)
+NTT cycles:
+5861
+basemul cycles:
+4188
+iNTT cycles:
+7196
+Matrix-vector multiplication:
+137764
+Inner product (Enc):
+40145
+Inner product (Dec):
+57563
+
+results for firesaber (impl=old_tmvp)
+polymul:
+28524
+MatrixVectorMul:
+484899
+InnerProd:
+121489
+
+results for firesaber (impl=old_speed)
+NTT cycles:
+5863
+basemul cycles:
+4186
+iNTT cycles:
+7194
+Matrix-vector multiplication:
+229630
+Inner product (Enc):
+51642
+Inner product (Dec):
+74866
+

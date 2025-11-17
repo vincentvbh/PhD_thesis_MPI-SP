@@ -1,0 +1,35 @@
+======== ntrup/obj/sntrup761_opt_gt_speed ========
+crypto_kem_keypair average cycles:
+1799422
+crypto_kem_enc average cycles:
+64336
+crypto_kem_dec average cycles:
+45072
+======== ntrup/obj/sntrup761_opt_schoenhage_speed ========
+crypto_kem_keypair average cycles:
+1805264
+crypto_kem_enc average cycles:
+66523
+crypto_kem_dec average cycles:
+52515
+======== ntrup/obj/sntrup761_opt_rader_speed ========
+crypto_kem_keypair average cycles:
+1798612
+crypto_kem_enc average cycles:
+63848
+crypto_kem_dec average cycles:
+43897
+======== ntrup/obj/sntrup761_opt_truncated_rader_speed ========
+crypto_kem_keypair average cycles:
+1741916
+crypto_kem_enc average cycles:
+61813
+crypto_kem_dec average cycles:
+38120
+======== ntrup/obj/sntrup761_opt_speed ========
+crypto_kem_keypair average cycles:
+1677438
+crypto_kem_enc average cycles:
+61643
+crypto_kem_dec average cycles:
+37738

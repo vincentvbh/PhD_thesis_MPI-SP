@@ -1,0 +1,49 @@
+======== ntru/obj/ntruhps2048677_old_speed ========
+crypto_kem_keypair average cycles:
+2195500
+crypto_kem_enc average cycles:
+30499
+crypto_kem_dec average cycles:
+50043
+======== ntru/obj/ntruhps2048677_opt_tc_speed ========
+crypto_kem_keypair average cycles:
+331008
+crypto_kem_enc average cycles:
+25128
+crypto_kem_dec average cycles:
+36102
+======== ntru/obj/ntruhps2048677_opt_tmvp_speed ========
+crypto_kem_keypair average cycles:
+312422
+crypto_kem_enc average cycles:
+23303
+crypto_kem_dec average cycles:
+30510
+======== ntru/obj/ntruhps2048677_opt_speed ========
+crypto_kem_keypair average cycles:
+233353
+crypto_kem_enc average cycles:
+23274
+crypto_kem_dec average cycles:
+30515
+======== ntru/obj/ntruhrss701_old_speed ========
+crypto_kem_keypair average cycles:
+2403884
+crypto_kem_enc average cycles:
+22800
+crypto_kem_dec average cycles:
+55862
+======== ntru/obj/ntruhrss701_opt_tmvp_speed ========
+crypto_kem_keypair average cycles:
+330092
+crypto_kem_enc average cycles:
+16588
+crypto_kem_dec average cycles:
+37442
+======== ntru/obj/ntruhrss701_opt_speed ========
+crypto_kem_keypair average cycles:
+244732
+crypto_kem_enc average cycles:
+16588
+crypto_kem_dec average cycles:
+37424

@@ -1,0 +1,42 @@
+======== saber/obj/lightsaber_old_tc_speed ========
+crypto_kem_keypair average cycles:
+27097
+crypto_kem_enc average cycles:
+36858
+crypto_kem_dec average cycles:
+36207
+======== saber/obj/lightsaber_old_speed ========
+crypto_kem_keypair average cycles:
+22753
+crypto_kem_enc average cycles:
+31815
+crypto_kem_dec average cycles:
+30426
+======== saber/obj/saber_old_tc_speed ========
+crypto_kem_keypair average cycles:
+48382
+crypto_kem_enc average cycles:
+59664
+crypto_kem_dec average cycles:
+59033
+======== saber/obj/saber_old_speed ========
+crypto_kem_keypair average cycles:
+37925
+crypto_kem_enc average cycles:
+49276
+crypto_kem_dec average cycles:
+47778
+======== saber/obj/firesaber_old_tc_speed ========
+crypto_kem_keypair average cycles:
+74483
+crypto_kem_enc average cycles:
+89775
+crypto_kem_dec average cycles:
+117764
+======== saber/obj/firesaber_old_speed ========
+crypto_kem_keypair average cycles:
+58169
+crypto_kem_enc average cycles:
+72283
+crypto_kem_dec average cycles:
+70329

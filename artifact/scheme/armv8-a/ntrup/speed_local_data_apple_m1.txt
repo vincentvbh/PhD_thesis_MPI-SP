@@ -1,0 +1,59 @@
+======== ntrup/obj/sntrup761_opt_gt_speed_local ========
+mulcore average cycles:
+8380
+Rq_mult_small average cycles:
+9376
+R3_recip average cycles:
+197266
+R3_mult average cycles:
+9647
+Rq_recip3 average cycles:
+1556703
+======== ntrup/obj/sntrup761_opt_schoenhage_speed_local ========
+mulcore average cycles:
+11706
+Rq_mult_small average cycles:
+11857
+R3_recip average cycles:
+197268
+R3_mult average cycles:
+12100
+Rq_recip3 average cycles:
+1524789
+======== ntrup/obj/sntrup761_opt_rader_speed_local ========
+mulcore average cycles:
+8101
+Rq_mult_small average cycles:
+8912
+R3_recip average cycles:
+197693
+R3_mult average cycles:
+9234
+Rq_recip3 average cycles:
+1529311
+======== ntrup/obj/sntrup761_opt_truncated_rader_speed_local ========
+mulcore average cycles:
+6506
+polymul average cycles:
+6728
+Rq_mult_small average cycles:
+6929
+R3_recip average cycles:
+197222
+R3_mult average cycles:
+7195
+Rq_recip3 average cycles:
+1469587
+======== ntrup/obj/sntrup761_opt_speed_local ========
+mulcore average cycles:
+6446
+polymul average cycles:
+6683
+Rq_mult_small average cycles:
+6879
+R3_recip average cycles:
+128901
+R3_mult average cycles:
+7143
+Rq_recip3 average cycles:
+1473817

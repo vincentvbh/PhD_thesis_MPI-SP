@@ -1,0 +1,47 @@
+speed measurements written on 2024-12-07 11:00:10.744004+00:00; iterations=100
+
+results for lightsaber (impl=old_tmvp)
+lightsaberold_tmvpkeygen: 376k
+lightsaberold_tmvpencap: 528k
+lightsaberold_tmvpdecap: 547k
+
+results for lightsaber (impl=old_stack)
+lightsaberold_stackkeygen: 382k
+lightsaberold_stackencap: 534k
+lightsaberold_stackdecap: 535k
+
+results for lightsaber (impl=old_speed)
+lightsaberold_speedkeygen: 313k
+lightsaberold_speedencap: 424k
+lightsaberold_speeddecap: 408k
+
+results for saber (impl=old_tmvp)
+saberold_tmvpkeygen: 728k
+saberold_tmvpencap: 940k
+saberold_tmvpdecap: 966k
+
+results for saber (impl=old_stack)
+saberold_stackkeygen: 741k
+saberold_stackencap: 956k
+saberold_stackdecap: 953k
+
+results for saber (impl=old_speed)
+saberold_speedkeygen: 569k
+saberold_speedencap: 721k
+saberold_speeddecap: 693k
+
+results for firesaber (impl=old_tmvp)
+firesaberold_tmvpkeygen: 1166k
+firesaberold_tmvpencap: 1430k
+firesaberold_tmvpdecap: 1479k
+
+results for firesaber (impl=old_stack)
+firesaberold_stackkeygen: 1197k
+firesaberold_stackencap: 1464k
+firesaberold_stackdecap: 1468k
+
+results for firesaber (impl=old_speed)
+firesaberold_speedkeygen: 874k
+firesaberold_speedencap: 1057k
+firesaberold_speeddecap: 1028k
+

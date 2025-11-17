@@ -1,0 +1,17 @@
+profile_hashing measurements written on 2024-12-08 13:46:46.330740+00:00; iterations=100
+
+results for dilithium2 (impl=old)
+dilithium2oldkeygen hashing: 1184k
+dilithium2oldsign hashing: 2216k
+dilithium2oldverify hashing: 1076k
+
+results for dilithium3 (impl=old)
+dilithium3oldkeygen hashing: 2034k
+dilithium3oldsign hashing: 3344k
+dilithium3oldverify hashing: 1883k
+
+results for dilithium5 (impl=old)
+dilithium5oldkeygen hashing: 3508k
+dilithium5oldsign hashing: 12985k
+dilithium5oldverify hashing: 3359k
+

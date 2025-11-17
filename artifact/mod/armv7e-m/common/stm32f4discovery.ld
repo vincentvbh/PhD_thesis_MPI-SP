@@ -1,0 +1,1 @@
+../../../common/armv7e-m/stm32f4discovery.ld

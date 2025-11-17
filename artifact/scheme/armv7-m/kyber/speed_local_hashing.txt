@@ -1,0 +1,26 @@
+speed_local_hashing measurements written on 2024-12-08 16:31:16.265446+00:00
+
+results for kyber512 (impl=old)
+Matrix-vector multiplication
+88172
+Inner product (Enc)
+17377
+Inner product (Dec)
+33333
+
+results for kyber768 (impl=old)
+Matrix-vector multiplication
+166101
+Inner product (Enc)
+21251
+Inner product (Dec)
+45184
+
+results for kyber1024 (impl=old)
+Matrix-vector multiplication
+270016
+Inner product (Enc)
+25126
+Inner product (Dec)
+57036
+

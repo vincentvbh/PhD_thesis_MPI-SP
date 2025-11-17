@@ -1,0 +1,60 @@
+======== saber/obj/lightsaber_old_tc_speed_local ========
+MatrixVectorMul median cycles:
+39106
+InnerProd median cycles:
+16610
+======== saber/obj/lightsaber_old_speed_local ========
+NTT median cycles:
+1530
+NTT heavy median cycles:
+2039
+asymmetric_mul median cycles:
+1996
+iNTT median cycles:
+1898
+Matrix vector multiplication median cycles:
+17978
+InnerProd(Enc) median cycles:
+6943
+InnerProd(Dec) median cycles:
+10999
+======== saber/obj/saber_old_tc_speed_local ========
+MatrixVectorMul median cycles:
+76253
+InnerProd median cycles:
+22529
+======== saber/obj/saber_old_speed_local ========
+NTT median cycles:
+1529
+NTT heavy median cycles:
+2121
+asymmetric_mul median cycles:
+2780
+iNTT median cycles:
+1890
+Matrix vector multiplication median cycles:
+34439
+InnerProd(Enc) median cycles:
+9468
+InnerProd(Dec) median cycles:
+15765
+======== saber/obj/firesaber_old_tc_speed_local ========
+MatrixVectorMul median cycles:
+129887
+InnerProd median cycles:
+28364
+======== saber/obj/firesaber_old_speed_local ========
+NTT median cycles:
+1529
+NTT heavy median cycles:
+2030
+asymmetric_mul median cycles:
+3711
+iNTT median cycles:
+1890
+Matrix vector multiplication median cycles:
+58821
+InnerProd(Enc) median cycles:
+11884
+InnerProd(Dec) median cycles:
+21523

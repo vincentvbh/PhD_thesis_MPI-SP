@@ -1,0 +1,42 @@
+speed measurements written on 2024-11-19 12:51:11.127564+00:00; iterations=100
+
+ results for dilithium2 (impl=ref)
+dilithium2refkeygen: 1925k
+dilithium2refsign: 8517k
+dilithium2refverify: 2149k
+
+ results for dilithium2 (impl=old)
+dilithium2oldkeygen: 1766k
+dilithium2oldsign: 5492k
+dilithium2oldverify: 1596k
+
+ results for dilithium2 (impl=opt)
+dilithium2optkeygen: 1542k
+dilithium2optsign: 4460k
+dilithium2optverify: 1509k
+
+ results for dilithium3 (impl=ref)
+dilithium3refkeygen: 3279k
+dilithium3refsign: 13362k
+dilithium3refverify: 3494k
+
+ results for dilithium3 (impl=old)
+dilithium3oldkeygen: 2943k
+dilithium3oldsign: 8529k
+dilithium3oldverify: 2660k
+
+ results for dilithium3 (impl=opt)
+dilithium3optkeygen: 2668k
+dilithium3optsign: 7399k
+dilithium3optverify: 2521k
+
+ results for dilithium5 (impl=old)
+dilithium5oldkeygen: 4924k
+dilithium5oldsign: 22917k
+dilithium5oldverify: 4525k
+
+ results for dilithium5 (impl=opt)
+dilithium5optkeygen: 4449k
+dilithium5optsign: 20872k
+dilithium5optverify: 4294k
+

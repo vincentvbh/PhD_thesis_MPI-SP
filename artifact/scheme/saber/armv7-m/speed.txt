@@ -1,0 +1,47 @@
+speed measurements written on 2024-11-19 01:46:04.465115+00:00; iterations=100
+
+ results for lightsaber (impl=ref)
+lightsaberrefkeygen: 3700k
+lightsaberrefencap: 5116k
+lightsaberrefdecap: 6714k
+
+ results for lightsaber (impl=old)
+lightsaberoldkeygen: 458k
+lightsaberoldencap: 629k
+lightsaberolddecap: 686k
+
+ results for lightsaber (impl=opt)
+lightsaberoptkeygen: 391k
+lightsaberoptencap: 535k
+lightsaberoptdecap: 567k
+
+ results for saber (impl=ref)
+saberrefkeygen: 8005k
+saberrefencap: 10312k
+saberrefdecap: 12612k
+
+ results for saber (impl=old)
+saberoldkeygen: 847k
+saberoldencap: 1080k
+saberolddecap: 1153k
+
+ results for saber (impl=opt)
+saberoptkeygen: 728k
+saberoptencap: 919k
+saberoptdecap: 962k
+
+ results for firesaber (impl=ref)
+firesaberrefkeygen: 13666k
+firesaberrefencap: 17575k
+firesaberrefdecap: 20716k
+
+ results for firesaber (impl=old)
+firesaberoldkeygen: 1327k
+firesaberoldencap: 1609k
+firesaberolddecap: 1709k
+
+ results for firesaber (impl=opt)
+firesaberoptkeygen: 1125k
+firesaberoptencap: 1358k
+firesaberoptdecap: 1424k
+

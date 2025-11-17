@@ -1,0 +1,47 @@
+speed measurements written on 2024-12-08 18:23:29.149956+00:00; iterations=100
+
+results for kyber512 (impl=old_montgomery_barrett)
+kyber512old_montgomery_barrettkeygen: 389k
+kyber512old_montgomery_barrettencap: 383k
+kyber512old_montgomery_barrettdecap: 422k
+
+results for kyber512 (impl=old_plant)
+kyber512old_plantkeygen: 388k
+kyber512old_plantencap: 384k
+kyber512old_plantdecap: 420k
+
+results for kyber512 (impl=opt)
+kyber512optkeygen: 388k
+kyber512optencap: 382k
+kyber512optdecap: 418k
+
+results for kyber768 (impl=old_montgomery_barrett)
+kyber768old_montgomery_barrettkeygen: 631k
+kyber768old_montgomery_barrettencap: 643k
+kyber768old_montgomery_barrettdecap: 695k
+
+results for kyber768 (impl=old_plant)
+kyber768old_plantkeygen: 631k
+kyber768old_plantencap: 643k
+kyber768old_plantdecap: 691k
+
+results for kyber768 (impl=opt)
+kyber768optkeygen: 631k
+kyber768optencap: 641k
+kyber768optdecap: 688k
+
+results for kyber1024 (impl=old_montgomery_barrett)
+kyber1024old_montgomery_barrettkeygen: 998k
+kyber1024old_montgomery_barrettencap: 1005k
+kyber1024old_montgomery_barrettdecap: 1071k
+
+results for kyber1024 (impl=old_plant)
+kyber1024old_plantkeygen: 998k
+kyber1024old_plantencap: 1005k
+kyber1024old_plantdecap: 1066k
+
+results for kyber1024 (impl=opt)
+kyber1024optkeygen: 998k
+kyber1024optencap: 1003k
+kyber1024optdecap: 1063k
+

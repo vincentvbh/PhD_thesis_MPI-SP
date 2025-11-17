@@ -1,0 +1,17 @@
+profile_hashing measurements written on 2024-12-08 13:51:27.503331+00:00; iterations=100
+
+results for lightsaber (impl=old_tc)
+lightsaberold_tckeygen hashing: 226k
+lightsaberold_tcencap hashing: 316k
+lightsaberold_tcdecap hashing: 248k
+
+results for saber (impl=old_tc)
+saberold_tckeygen hashing: 411k
+saberold_tcencap hashing: 534k
+saberold_tcdecap hashing: 433k
+
+results for firesaber (impl=old_tc)
+firesaberold_tckeygen hashing: 620k
+firesaberold_tcencap hashing: 765k
+firesaberold_tcdecap hashing: 642k
+

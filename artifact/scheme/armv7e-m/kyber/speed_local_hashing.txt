@@ -1,0 +1,50 @@
+speed_local_hashing measurements written on 2024-12-08 18:25:49.446169+00:00
+
+results for kyber512 (impl=old_montgomery_barrett)
+Matrix-vector multiplication
+60292
+Inner product (Enc)
+8764
+Inner product (Dec)
+23437
+
+results for kyber512 (impl=old_plant)
+Matrix-vector multiplication
+55212
+Inner product (Enc)
+7937
+Inner product (Dec)
+19655
+
+results for kyber768 (impl=old_montgomery_barrett)
+Matrix-vector multiplication
+114613
+Inner product (Enc)
+10336
+Inner product (Dec)
+32368
+
+results for kyber768 (impl=old_plant)
+Matrix-vector multiplication
+107797
+Inner product (Enc)
+9509
+Inner product (Dec)
+27205
+
+results for kyber1024 (impl=old_montgomery_barrett)
+Matrix-vector multiplication
+184557
+Inner product (Enc)
+11906
+Inner product (Dec)
+41297
+
+results for kyber1024 (impl=old_plant)
+Matrix-vector multiplication
+176728
+Inner product (Enc)
+11078
+Inner product (Dec)
+34753
+

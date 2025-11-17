@@ -1,0 +1,22 @@
+speed measurements written on 2024-12-08 20:33:28.733475+00:00; iterations=100
+
+results for dilithium2 (impl=old_speed)
+dilithium2old_speedkeygen: 1394k
+dilithium2old_speedsign: 3917k
+dilithium2old_speedverify: 1463k
+
+results for dilithium3 (impl=old_speed)
+dilithium3old_speedkeygen: 2448k
+dilithium3old_speedsign: 6231k
+dilithium3old_speedverify: 2372k
+
+results for dilithium5 (impl=old_stack)
+dilithium5old_stackkeygen: 5831k
+dilithium5old_stacksign: 27794k
+dilithium5old_stackverify: 9855k
+
+results for dilithium5 (impl=old_speed)
+dilithium5old_speedkeygen: 4154k
+dilithium5old_speedsign: 7129k
+dilithium5old_speedverify: 4075k
+

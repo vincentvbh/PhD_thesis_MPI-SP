@@ -1,0 +1,32 @@
+speed measurements written on 2024-12-01 21:27:06.048717+00:00; iterations=100
+
+results for ntruhps2048677 (impl=old_1536)
+ntruhps2048677old_1536keygen: 3970k
+ntruhps2048677old_1536encap: 561k
+ntruhps2048677old_1536decap: 710k
+
+results for ntruhps2048677 (impl=old_tmvp)
+ntruhps2048677old_tmvpkeygen: 3958k
+ntruhps2048677old_tmvpencap: 557k
+ntruhps2048677old_tmvpdecap: 702k
+
+results for ntruhps2048677 (impl=old_1440)
+ntruhps2048677old_1440keygen: 3947k
+ntruhps2048677old_1440encap: 554k
+ntruhps2048677old_1440decap: 695k
+
+results for ntruhrss701 (impl=old_1536)
+ntruhrss701old_1536keygen: 3861k
+ntruhrss701old_1536encap: 378k
+ntruhrss701old_1536decap: 768k
+
+results for ntruhrss701 (impl=old_tmvp)
+ntruhrss701old_tmvpkeygen: 3849k
+ntruhrss701old_tmvpencap: 374k
+ntruhrss701old_tmvpdecap: 759k
+
+results for ntruhrss701 (impl=old_1440)
+ntruhrss701old_1440keygen: 3837k
+ntruhrss701old_1440encap: 371k
+ntruhrss701old_1440decap: 752k
+

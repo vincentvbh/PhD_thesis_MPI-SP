@@ -1,0 +1,18 @@
+======== ntru/obj/ntruhps2048677_old_tc_speed_local ========
+TC polymul average cycles:
+11135
+R2 inv average cycles:
+8443
+Rq inv average cycles:
+102704
+S3 inv average cycles:
+90984
+======== ntru/obj/ntruhrss701_old_tc_speed_local ========
+TC polymul average cycles:
+11543
+R2 inv average cycles:
+9023
+Rq inv average cycles:
+103453
+S3 inv average cycles:
+94186

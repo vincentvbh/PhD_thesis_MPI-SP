@@ -1,0 +1,77 @@
+======== ntru/obj/ntruhps2048677_old_speed_local ========
+poly_Rq_inv average cycles:
+757932
+poly_R2_inv average cycles:
+668396
+poly_S3_inv average cycles:
+773756
+poly_Rq_mul average cycles:
+10402
+poly_S3_mul average cycles:
+10803
+======== ntru/obj/ntruhps2048677_opt_tc_speed_local ========
+poly_Rq_inv average cycles:
+117120
+poly_R2_inv average cycles:
+59257
+poly_S3_inv average cycles:
+151770
+poly_Rq_mul average cycles:
+7187
+poly_S3_mul average cycles:
+7462
+======== ntru/obj/ntruhps2048677_opt_tmvp_speed_local ========
+poly_Rq_inv average cycles:
+102448
+poly_R2_inv average cycles:
+59449
+poly_S3_inv average cycles:
+151800
+poly_Rq_mul average cycles:
+5226
+poly_S3_mul average cycles:
+5495
+======== ntru/obj/ntruhps2048677_opt_speed_local ========
+poly_Rq_inv average cycles:
+86475
+poly_R2_inv average cycles:
+40959
+poly_S3_inv average cycles:
+100446
+poly_Rq_mul average cycles:
+5517
+poly_S3_mul average cycles:
+5792
+======== ntru/obj/ntruhrss701_old_speed_local ========
+poly_Rq_inv average cycles:
+842248
+poly_R2_inv average cycles:
+745970
+poly_S3_inv average cycles:
+828169
+poly_Rq_mul average cycles:
+11884
+poly_S3_mul average cycles:
+11683
+======== ntru/obj/ntruhrss701_opt_tmvp_speed_local ========
+poly_Rq_inv average cycles:
+99658
+poly_R2_inv average cycles:
+42422
+poly_S3_inv average cycles:
+186218
+poly_Rq_mul average cycles:
+6971
+poly_S3_mul average cycles:
+7238
+======== ntru/obj/ntruhrss701_opt_speed_local ========
+poly_Rq_inv average cycles:
+99453
+poly_R2_inv average cycles:
+42366
+poly_S3_inv average cycles:
+104000
+poly_Rq_mul average cycles:
+6975
+poly_S3_mul average cycles:
+7279

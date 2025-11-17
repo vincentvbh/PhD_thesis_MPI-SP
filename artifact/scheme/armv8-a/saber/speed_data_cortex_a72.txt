@@ -1,0 +1,42 @@
+======== saber/obj/lightsaber_old_tc_speed ========
+crypto_kem_keypair median cycles:
+81288
+crypto_kem_enc median cycles:
+113049
+crypto_kem_dec median cycles:
+124179
+======== saber/obj/lightsaber_old_speed ========
+crypto_kem_keypair median cycles:
+62542
+crypto_kem_enc median cycles:
+86470
+crypto_kem_dec median cycles:
+91159
+======== saber/obj/saber_old_tc_speed ========
+crypto_kem_keypair median cycles:
+150431
+crypto_kem_enc median cycles:
+193495
+crypto_kem_dec median cycles:
+207307
+======== saber/obj/saber_old_speed ========
+crypto_kem_keypair median cycles:
+114743
+crypto_kem_enc median cycles:
+145379
+crypto_kem_dec median cycles:
+151031
+======== saber/obj/firesaber_old_tc_speed ========
+crypto_kem_keypair median cycles:
+240892
+crypto_kem_enc median cycles:
+293660
+crypto_kem_dec median cycles:
+311357
+======== saber/obj/firesaber_old_speed ========
+crypto_kem_keypair median cycles:
+175040
+crypto_kem_enc median cycles:
+212668
+crypto_kem_dec median cycles:
+222254

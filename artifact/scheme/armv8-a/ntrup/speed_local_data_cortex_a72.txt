@@ -1,0 +1,59 @@
+======== ntrup/obj/sntrup761_opt_gt_speed_local ========
+mulcore median cycles:
+40901
+Rq_mult_small median cycles:
+46847
+R3_recip median cycles:
+587411
+R3_mult median cycles:
+48661
+Rq_recip3 median cycles:
+5805791
+======== ntrup/obj/sntrup761_opt_schoenhage_speed_local ========
+mulcore median cycles:
+51613
+Rq_mult_small median cycles:
+52048
+R3_recip median cycles:
+587419
+R3_mult median cycles:
+54340
+Rq_recip3 median cycles:
+5779492
+======== ntrup/obj/sntrup761_opt_rader_speed_local ========
+mulcore median cycles:
+37215
+Rq_mult_small median cycles:
+40950
+R3_recip median cycles:
+587591
+R3_mult median cycles:
+41661
+Rq_recip3 median cycles:
+5843529
+======== ntrup/obj/sntrup761_opt_truncated_rader_speed_local ========
+mulcore median cycles:
+29925
+polymul median cycles:
+32148
+Rq_mult_small median cycles:
+33787
+R3_recip median cycles:
+587743
+R3_mult median cycles:
+34295
+Rq_recip3 median cycles:
+5966844
+======== ntrup/obj/sntrup761_opt_speed_local ========
+mulcore median cycles:
+30323
+polymul median cycles:
+32463
+Rq_mult_small median cycles:
+33113
+R3_recip median cycles:
+374389
+R3_mult median cycles:
+34597
+Rq_recip3 median cycles:
+5755760

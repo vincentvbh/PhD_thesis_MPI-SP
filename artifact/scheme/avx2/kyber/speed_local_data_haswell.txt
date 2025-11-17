@@ -1,0 +1,33 @@
+======== kyber/obj/kyber512_old_speed_local ========
+NTT average cycles:
+283
+iNTT average cycles:
+288
+MatrixVectorMul average cycles:
+1720
+InnerProd (Enc) average cycles:
+582
+InnerProd (Dec) average cycles:
+1136
+======== kyber/obj/kyber768_old_speed_local ========
+NTT average cycles:
+284
+iNTT average cycles:
+295
+MatrixVectorMul average cycles:
+3080
+InnerProd (Enc) average cycles:
+736
+InnerProd (Dec) average cycles:
+1593
+======== kyber/obj/kyber1024_old_speed_local ========
+NTT average cycles:
+304
+iNTT average cycles:
+294
+MatrixVectorMul average cycles:
+4747
+InnerProd (Enc) average cycles:
+890
+InnerProd (Dec) average cycles:
+2016

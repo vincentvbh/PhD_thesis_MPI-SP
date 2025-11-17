@@ -1,0 +1,66 @@
+======== saber/obj/lightsaber_old_tc_speed_local ========
+polymul average cycles:
+2663
+MatrixVectorMul average cycles:
+8129
+InnerProd (Enc) average cycles:
+3710
+InnerProd (Dec) average cycles:
+4417
+======== saber/obj/lightsaber_old_ntt_speed_local ========
+NTT average cycles:
+331
+iNTT average cycles:
+288
+Inner Prod NTT average cycles:
+178
+MatrixVectorMul average cycles:
+6235
+InnerProd (Enc) average cycles:
+2435
+InnerProd (Dec) average cycles:
+3806
+======== saber/obj/saber_old_tc_speed_local ========
+polymul average cycles:
+2652
+MatrixVectorMul average cycles:
+16471
+InnerProd (Enc) average cycles:
+5092
+InnerProd (Dec) average cycles:
+6173
+======== saber/obj/saber_old_ntt_speed_local ========
+NTT average cycles:
+329
+iNTT average cycles:
+291
+Inner Prod NTT average cycles:
+240
+MatrixVectorMul average cycles:
+11928
+InnerProd (Enc) average cycles:
+3276
+InnerProd (Dec) average cycles:
+5376
+======== saber/obj/firesaber_old_tc_speed_local ========
+polymul average cycles:
+2676
+MatrixVectorMul average cycles:
+27684
+InnerProd (Enc) average cycles:
+6546
+InnerProd (Dec) average cycles:
+7972
+======== saber/obj/firesaber_old_ntt_speed_local ========
+NTT average cycles:
+327
+iNTT average cycles:
+294
+Inner Prod NTT average cycles:
+307
+MatrixVectorMul average cycles:
+19349
+InnerProd (Enc) average cycles:
+4133
+InnerProd (Dec) average cycles:
+6923

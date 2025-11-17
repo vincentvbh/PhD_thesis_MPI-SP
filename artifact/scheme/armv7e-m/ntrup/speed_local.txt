@@ -1,0 +1,10 @@
+speed_local measurements written on 2024-12-07 15:12:44.147878+00:00
+
+results for sntrup761 (impl=old_1536)
+bigxsmall polymul cycles:
+151696
+
+results for sntrup761 (impl=old_1530)
+bigxsmall polymul cycles:
+142615
+

@@ -1,0 +1,1 @@
+../../../common/armv7e-m/make.mk

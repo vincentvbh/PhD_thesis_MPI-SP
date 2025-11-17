@@ -1,0 +1,96 @@
+======== kyber/obj/kyber512_old_speed_local ========
+NTT cycles median cycles:
+1196
+NTT_heavy cycles median cycles:
+1424
+asymmetric_mul median cycles:
+963
+iNTT median cycles:
+1292
+MatrixVectorMul median cycles:
+7302
+InnerProd (Enc) median cycles:
+2233
+InnerProd (Dec) median cycles:
+5073
+======== kyber/obj/kyber512_opt_speed_local ========
+NTT cycles median cycles:
+956
+NTT_heavy median cycles:
+1113
+point_mul median cycles:
+159
+asymmetric_mul median cycles:
+623
+iNTT median cycles:
+1129
+MatrixVectorMul median cycles:
+5729
+InnerProd (Enc) median cycles:
+1784
+InnerProd (Dec) median cycles:
+3990
+======== kyber/obj/kyber768_old_speed_local ========
+NTT cycles median cycles:
+1195
+NTT_heavy cycles median cycles:
+1425
+asymmetric_mul median cycles:
+1166
+iNTT median cycles:
+1289
+MatrixVectorMul median cycles:
+11661
+InnerProd (Enc) median cycles:
+2441
+InnerProd (Dec) median cycles:
+6737
+======== kyber/obj/kyber768_opt_speed_local ========
+NTT cycles median cycles:
+959
+NTT_heavy median cycles:
+1113
+point_mul median cycles:
+159
+asymmetric_mul median cycles:
+841
+iNTT median cycles:
+1129
+MatrixVectorMul median cycles:
+9245
+InnerProd (Enc) median cycles:
+1991
+InnerProd (Dec) median cycles:
+5324
+======== kyber/obj/kyber1024_old_speed_local ========
+NTT cycles median cycles:
+1197
+NTT_heavy cycles median cycles:
+1426
+asymmetric_mul median cycles:
+1383
+iNTT median cycles:
+1293
+MatrixVectorMul median cycles:
+16721
+InnerProd (Enc) median cycles:
+2877
+InnerProd (Dec) median cycles:
+8575
+======== kyber/obj/kyber1024_opt_speed_local ========
+NTT cycles median cycles:
+959
+NTT_heavy median cycles:
+1112
+point_mul median cycles:
+159
+asymmetric_mul median cycles:
+1033
+iNTT median cycles:
+1129
+MatrixVectorMul median cycles:
+13103
+InnerProd (Enc) median cycles:
+2158
+InnerProd (Dec) median cycles:
+6631

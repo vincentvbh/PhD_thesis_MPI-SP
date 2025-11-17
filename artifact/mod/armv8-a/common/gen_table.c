@@ -1,0 +1,1 @@
+../../../common/C/gen_table.c

@@ -1,0 +1,110 @@
+speed_local measurements written on 2024-12-01 11:44:50.803781+00:00
+
+results for dilithium2 (impl=old)
+Constant-time Dilithium NTT:
+33084
+Variable-time Dilithium NTT:
+19232
+Constant-time Dilithium iNTT:
+36663
+Variable-time Dilithium iNTT:
+20881
+Constant-time Dilithium inner product L:
+35553
+Variable-time Dilithium inner product L:
+21724
+Constant-time Dilithium matrix-vector multiplication:
+427669
+Variable-time Dilithium matrix-vector multiplication:
+253901
+
+results for dilithium2 (impl=opt)
+Constant-time Dilithium NTT:
+21877
+Variable-time Dilithium NTT:
+15985
+Constant-time Dilithium iNTT:
+26494
+Variable-time Dilithium iNTT:
+19038
+Constant-time Dilithium inner product L:
+19035
+Variable-time Dilithium inner product L:
+13894
+Constant-time Dilithium matrix-vector multiplication:
+276146
+Variable-time Dilithium matrix-vector multiplication:
+202214
+
+results for dilithium3 (impl=old)
+Constant-time Dilithium NTT:
+33079
+Variable-time Dilithium NTT:
+19228
+Constant-time Dilithium iNTT:
+36658
+Variable-time Dilithium iNTT:
+20871
+Constant-time Dilithium inner product L:
+45560
+Variable-time Dilithium inner product L:
+27302
+Constant-time Dilithium matrix-vector multiplication:
+662714
+Variable-time Dilithium matrix-vector multiplication:
+394492
+
+results for dilithium3 (impl=opt)
+Constant-time Dilithium NTT:
+20258
+Variable-time Dilithium NTT:
+15126
+Constant-time Dilithium iNTT:
+24201
+Variable-time Dilithium iNTT:
+17725
+Constant-time Dilithium inner product L:
+23903
+Variable-time Dilithium inner product L:
+17240
+Constant-time Dilithium matrix-vector multiplication:
+421483
+Variable-time Dilithium matrix-vector multiplication:
+307401
+
+results for dilithium5 (impl=old)
+Constant-time Dilithium NTT:
+33079
+Variable-time Dilithium NTT:
+19228
+Constant-time Dilithium iNTT:
+36658
+Variable-time Dilithium iNTT:
+20877
+Constant-time Dilithium inner product L:
+64069
+Variable-time Dilithium inner product L:
+38490
+Constant-time Dilithium matrix-vector multiplication:
+1043297
+Variable-time Dilithium matrix-vector multiplication:
+618586
+
+results for dilithium5 (impl=opt)
+Constant-time Dilithium NTT:
+20258
+Variable-time Dilithium NTT:
+15125
+Constant-time Dilithium iNTT:
+24201
+Variable-time Dilithium iNTT:
+17728
+Constant-time Dilithium inner product L:
+33119
+Variable-time Dilithium inner product L:
+23904
+Constant-time Dilithium matrix-vector multiplication:
+642955
+Variable-time Dilithium matrix-vector multiplication:
+468439
+

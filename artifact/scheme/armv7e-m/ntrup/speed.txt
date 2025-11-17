@@ -1,0 +1,12 @@
+speed measurements written on 2024-12-07 14:49:28.306221+00:00; iterations=100
+
+results for sntrup761 (impl=old_1530)
+sntrup761old_1530keygen: 8014k
+sntrup761old_1530encap: 691k
+sntrup761old_1530decap: 536k
+
+results for sntrup761 (impl=old_1536)
+sntrup761old_1536keygen: 8019k
+sntrup761old_1536encap: 701k
+sntrup761old_1536decap: 561k
+

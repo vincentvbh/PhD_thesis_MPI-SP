@@ -1,0 +1,54 @@
+======== dilithium/obj/dilithium2_old_speed_local ========
+MatrixVectorMul average cycles:
+5362
+NTT average cycles:
+478
+Inner product NTT L average cycles:
+251
+iNTT average cycles:
+582
+======== dilithium/obj/dilithium2_opt_speed_local ========
+MatrixVectorMul average cycles:
+4900
+NTT average cycles:
+423
+Inner product NTT L average cycles:
+250
+iNTT average cycles:
+525
+======== dilithium/obj/dilithium3_old_speed_local ========
+MatrixVectorMul average cycles:
+7819
+NTT average cycles:
+478
+Inner product NTT L average cycles:
+276
+iNTT average cycles:
+582
+======== dilithium/obj/dilithium3_opt_speed_local ========
+MatrixVectorMul average cycles:
+7186
+NTT average cycles:
+422
+Inner product NTT L average cycles:
+276
+iNTT average cycles:
+525
+======== dilithium/obj/dilithium5_old_speed_local ========
+MatrixVectorMul average cycles:
+11696
+NTT average cycles:
+479
+Inner product NTT L average cycles:
+386
+iNTT average cycles:
+582
+======== dilithium/obj/dilithium5_opt_speed_local ========
+MatrixVectorMul average cycles:
+10814
+NTT average cycles:
+423
+Inner product NTT L average cycles:
+386
+iNTT average cycles:
+525

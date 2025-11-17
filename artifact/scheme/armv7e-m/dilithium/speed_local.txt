@@ -1,0 +1,76 @@
+speed_local measurements written on 2024-12-08 21:41:17.774014+00:00
+
+results for dilithium2 (impl=old_speed)
+NTT cycles:
+8097
+basemul cycles:
+1959
+iNTT cycles:
+8417
+Inner product L:
+10470
+Matrix-vector multiplication:
+109659
+small NTT:
+5524
+small NTT heavy:
+6680
+small asymmetric mul:
+1229
+small iNTT:
+5564
+c s1:
+28827
+c s2:
+26914
+
+results for dilithium3 (impl=old_speed)
+NTT cycles:
+8098
+basemul cycles:
+1959
+iNTT cycles:
+8417
+Inner product L:
+13239
+Matrix-vector multiplication:
+172825
+small NTT:
+4485
+small NTT heavy:
+5507
+small asymmetric mul:
+1743
+small iNTT:
+4619
+c s1:
+41304
+c s2:
+45460
+
+
+results for dilithium5 (impl=old_speed)
+NTT cycles:
+8097
+basemul cycles:
+1959
+iNTT cycles:
+8417
+Inner product L:
+18194
+Matrix-vector multiplication:
+270993
+small NTT:
+5525
+small NTT heavy:
+6680
+small asymmetric mul:
+1229
+small iNTT:
+5564
+c s1:
+48257
+c s2:
+53782
+
+

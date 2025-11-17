@@ -1,0 +1,17 @@
+profile_hashing measurements written on 2024-12-08 12:36:01.916650+00:00; iterations=100
+
+results for kyber512 (impl=old)
+kyber512oldkeygen hashing: 293k
+kyber512oldencap hashing: 284k
+kyber512olddecap hashing: 284k
+
+results for kyber768 (impl=old)
+kyber768oldkeygen hashing: 471k
+kyber768oldencap hashing: 482k
+kyber768olddecap hashing: 482k
+
+results for kyber1024 (impl=old)
+kyber1024oldkeygen hashing: 754k
+kyber1024oldencap hashing: 766k
+kyber1024olddecap hashing: 766k
+

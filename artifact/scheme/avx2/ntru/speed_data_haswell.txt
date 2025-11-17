@@ -1,0 +1,14 @@
+======== ntru/obj/ntruhps2048677_old_tc_speed ========
+crypto_kem_keypair average cycles:
+302597
+crypto_kem_enc average cycles:
+63133
+crypto_kem_dec average cycles:
+61634
+======== ntru/obj/ntruhrss701_old_tc_speed ========
+crypto_kem_keypair average cycles:
+286558
+crypto_kem_enc average cycles:
+41946
+crypto_kem_dec average cycles:
+66409

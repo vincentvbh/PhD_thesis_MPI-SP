@@ -1,0 +1,42 @@
+======== dilithium/obj/dilithium2_old_speed ========
+crypto_sign_keypair median cycles:
+281216
+crypto_sign median cycles:
+816325
+crypto_sign_open median cycles:
+281627
+======== dilithium/obj/dilithium2_opt_speed ========
+crypto_sign_keypair median cycles:
+279315
+crypto_sign median cycles:
+793311
+crypto_sign_open median cycles:
+278943
+======== dilithium/obj/dilithium3_old_speed ========
+crypto_sign_keypair median cycles:
+536860
+crypto_sign median cycles:
+1002610
+crypto_sign_open median cycles:
+469008
+======== dilithium/obj/dilithium3_opt_speed ========
+crypto_sign_keypair median cycles:
+533555
+crypto_sign median cycles:
+979416
+crypto_sign_open median cycles:
+461352
+======== dilithium/obj/dilithium5_old_speed ========
+crypto_sign_keypair median cycles:
+822482
+crypto_sign median cycles:
+1744381
+crypto_sign_open median cycles:
+817199
+======== dilithium/obj/dilithium5_opt_speed ========
+crypto_sign_keypair median cycles:
+818711
+crypto_sign median cycles:
+1695664
+crypto_sign_open median cycles:
+796541

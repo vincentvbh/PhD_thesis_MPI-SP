@@ -1,0 +1,54 @@
+======== dilithium/obj/dilithium2_old_speed_local ========
+MatrixVectorMul median cycles:
+27111
+NTT median cycles:
+2246
+Inner product NTT L median cycles:
+1206
+iNTT median cycles:
+2825
+======== dilithium/obj/dilithium2_opt_speed_local ========
+MatrixVectorMul median cycles:
+23231
+NTT median cycles:
+1811
+Inner product NTT L median cycles:
+1194
+iNTT median cycles:
+2535
+======== dilithium/obj/dilithium3_old_speed_local ========
+MatrixVectorMul median cycles:
+40182
+NTT median cycles:
+2256
+Inner product NTT L median cycles:
+1380
+iNTT median cycles:
+2825
+======== dilithium/obj/dilithium3_opt_speed_local ========
+MatrixVectorMul median cycles:
+36429
+NTT median cycles:
+1818
+Inner product NTT L median cycles:
+1378
+iNTT median cycles:
+2561
+======== dilithium/obj/dilithium5_old_speed_local ========
+MatrixVectorMul median cycles:
+56110
+NTT median cycles:
+2256
+Inner product NTT L median cycles:
+1815
+iNTT median cycles:
+2825
+======== dilithium/obj/dilithium5_opt_speed_local ========
+MatrixVectorMul median cycles:
+52189
+NTT median cycles:
+1810
+Inner product NTT L median cycles:
+1839
+iNTT median cycles:
+2551

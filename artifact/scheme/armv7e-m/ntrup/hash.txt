@@ -1,0 +1,7 @@
+profile_hashing measurements written on 2024-12-08 12:51:01.160730+00:00; iterations=100
+
+results for sntrup761 (impl=old_1536)
+sntrup761old_1536keygen hashing: 85k
+sntrup761old_1536encap hashing: 207k
+sntrup761old_1536decap hashing: 121k
+

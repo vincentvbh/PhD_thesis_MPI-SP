@@ -1,0 +1,1 @@
+../../../common/armv7e-m/sha512.c

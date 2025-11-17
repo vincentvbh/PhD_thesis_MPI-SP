@@ -1,0 +1,8 @@
+speed_local measurements written on 2024-12-07 08:33:06.109373+00:00
+
+results for kyber512 (impl=old)
+NTT cycles:
+8031
+iNTT cycles:
+8598
+

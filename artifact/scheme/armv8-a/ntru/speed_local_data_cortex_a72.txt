@@ -1,0 +1,77 @@
+======== ntru/obj/ntruhps2048677_old_speed_local ========
+poly_Rq_inv median cycles:
+3499592
+poly_R2_inv median cycles:
+3059958
+poly_S3_inv median cycles:
+4429570
+poly_Rq_mul median cycles:
+55427
+poly_S3_mul median cycles:
+56877
+======== ntru/obj/ntruhps2048677_opt_tc_speed_local ========
+poly_Rq_inv median cycles:
+434655
+poly_R2_inv median cycles:
+135439
+poly_S3_inv median cycles:
+486319
+poly_Rq_mul median cycles:
+37180
+poly_S3_mul median cycles:
+39357
+======== ntru/obj/ntruhps2048677_opt_tmvp_speed_local ========
+poly_Rq_inv median cycles:
+349607
+poly_R2_inv median cycles:
+135449
+poly_S3_inv median cycles:
+486757
+poly_Rq_mul median cycles:
+26907
+poly_S3_mul median cycles:
+28783
+======== ntru/obj/ntruhps2048677_opt_speed_local ========
+poly_Rq_inv median cycles:
+349592
+poly_R2_inv median cycles:
+135471
+poly_S3_inv median cycles:
+311895
+poly_Rq_mul median cycles:
+27186
+poly_S3_mul median cycles:
+29087
+======== ntru/obj/ntruhrss701_old_speed_local ========
+poly_Rq_inv median cycles:
+3765628
+poly_R2_inv median cycles:
+3299673
+poly_S3_inv median cycles:
+4703158
+poly_Rq_mul median cycles:
+57040
+poly_S3_mul median cycles:
+58805
+======== ntru/obj/ntruhrss701_opt_tmvp_speed_local ========
+poly_Rq_inv median cycles:
+392053
+poly_R2_inv median cycles:
+140295
+poly_S3_inv median cycles:
+504033
+poly_Rq_mul median cycles:
+31151
+poly_S3_mul median cycles:
+33318
+======== ntru/obj/ntruhrss701_opt_speed_local ========
+poly_Rq_inv median cycles:
+392183
+poly_R2_inv median cycles:
+140290
+poly_S3_inv median cycles:
+322939
+poly_Rq_mul median cycles:
+31517
+poly_S3_mul median cycles:
+33340

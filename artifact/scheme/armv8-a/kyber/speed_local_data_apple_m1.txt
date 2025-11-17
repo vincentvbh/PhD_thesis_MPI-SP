@@ -1,0 +1,96 @@
+======== kyber/obj/kyber512_old_speed_local ========
+NTT cycles average cycles:
+263
+NTT_heavy cycles average cycles:
+299
+asymmetric_mul average cycles:
+176
+iNTT average cycles:
+262
+MatrixVectorMul average cycles:
+1471
+InnerProd (Enc) average cycles:
+437
+InnerProd (Dec) average cycles:
+1036
+======== kyber/obj/kyber512_opt_speed_local ========
+NTT cycles average cycles:
+226
+NTT_heavy average cycles:
+244
+point_mul average cycles:
+27
+asymmetric_mul average cycles:
+150
+iNTT average cycles:
+228
+MatrixVectorMul average cycles:
+1241
+InnerProd (Enc) average cycles:
+375
+InnerProd (Dec) average cycles:
+864
+======== kyber/obj/kyber768_old_speed_local ========
+NTT cycles average cycles:
+263
+NTT_heavy cycles average cycles:
+299
+asymmetric_mul average cycles:
+224
+iNTT average cycles:
+262
+MatrixVectorMul average cycles:
+2353
+InnerProd (Enc) average cycles:
+486
+InnerProd (Dec) average cycles:
+1386
+======== kyber/obj/kyber768_opt_speed_local ========
+NTT cycles average cycles:
+226
+NTT_heavy average cycles:
+245
+point_mul average cycles:
+27
+asymmetric_mul average cycles:
+199
+iNTT average cycles:
+228
+MatrixVectorMul average cycles:
+2011
+InnerProd (Enc) average cycles:
+425
+InnerProd (Dec) average cycles:
+1157
+======== kyber/obj/kyber1024_old_speed_local ========
+NTT cycles average cycles:
+263
+NTT_heavy cycles average cycles:
+300
+asymmetric_mul average cycles:
+286
+iNTT average cycles:
+262
+MatrixVectorMul average cycles:
+3440
+InnerProd (Enc) average cycles:
+607
+InnerProd (Dec) average cycles:
+1782
+======== kyber/obj/kyber1024_opt_speed_local ========
+NTT cycles average cycles:
+226
+NTT_heavy average cycles:
+244
+point_mul average cycles:
+27
+asymmetric_mul average cycles:
+263
+iNTT average cycles:
+228
+MatrixVectorMul average cycles:
+2967
+InnerProd (Enc) average cycles:
+551
+InnerProd (Dec) average cycles:
+1522
