@@ -1,1 +1,0 @@
-../../../../common/armv7-m/stm32f207zg.ld

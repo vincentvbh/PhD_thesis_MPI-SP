@@ -1019,7 +1019,9 @@ void init_counter(void){
     init_counters();
 }
 
-#else
+#else /* __APPLE__ */
+
+#ifdef __ARM_ARCH_ISA_A64
 
 void init_counter(void){return;}
 void stop_counting(void){return;}
@@ -1030,5 +1032,21 @@ uint64_t get_cycle(void){
   return t;
 }
 
-#endif
+#else /* __ARM_ARCH_ISA_A64__ */
+
+void init_counter(void){return;}
+void stop_counting(void){return;}
+
+uint64_t get_cycle(void) {
+  uint64_t result;
+
+  __asm__ volatile ("rdtsc; shlq $32,%%rdx; orq %%rdx,%%rax"
+    : "=a" (result) : : "%rdx");
+
+  return result;
+}
+
+#endif /* __ARM_ARCH_ISA_A64 */
+
+#endif /* __APPLE__ */
 

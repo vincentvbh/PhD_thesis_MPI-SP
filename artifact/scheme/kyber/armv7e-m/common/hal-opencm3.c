@@ -1,1 +1,0 @@
-../../../../common/armv7e-m/hal-opencm3.c

@@ -1,1 +1,0 @@
-../../../common/armv7-m/read_serial.py
