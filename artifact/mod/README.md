@@ -1,2 +1,2 @@
 
-TODO: Document this folder.
+This folder contains the source code of the improved compression.
