@@ -79,7 +79,7 @@ with open(outFileName, "w") as outfile:
         for imple in impleList:
             run_bench(schemeName, paramSet, cpu + imple, outfile)
 
-    print("\n======== Runned ========\n")
+    print("\n======== Run ========\n")
     print(str.join('\n', runned))
     print("\n======== Skipped ========\n")
     print(str.join('\n', skipped))

@@ -1,6 +1,29 @@
 
+# Compilation
+
+```
+make all
+```
+
 # Cortex-M4
 
+## Correctness
+
+Type
+```
+bash ./flash_bin.sh intdiv.bin
+```
+
+Output TBA.
+
+## Performance
+
+Type
+```
+bash ./flash_bin.sh intdiv_speed.bin
+```
+
+Output:
 ```
 poly_compress1 ref cycles: 3356
 
@@ -40,3 +63,4 @@ poly_compress11 cycles: 3408
 
 poly_compress11 smlawx cycles: 1335
 ```
+

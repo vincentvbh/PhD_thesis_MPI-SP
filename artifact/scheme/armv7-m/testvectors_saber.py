@@ -79,7 +79,7 @@ for paramSet in paramSetList:
         test(schemeName, paramSet, cpu + imple)
 
 
-print("\n======== Runned ========\n")
+print("\n======== Run ========\n")
 print(str.join('\n', runned))
 print("\n======== Skipped ========\n")
 print(str.join('\n', skipped))

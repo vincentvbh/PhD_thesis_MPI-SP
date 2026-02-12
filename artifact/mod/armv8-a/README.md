@@ -1,9 +1,26 @@
 
-# Compression
+# Compilation
 
-## Firestore (Apple M1 Pro)
+```
+make all
+```
 
-### Clang
+# Correctness
+
+Type
+```
+./intdiv
+./mulmod
+```
+
+# Firestore (Apple M1 Pro)
+
+Type
+```
+sudo ./intdiv_speed
+```
+
+## Clang
 Apple clang version 15.0.0 (clang-1500.3.9.4)
 
 ```
@@ -49,7 +66,7 @@ poly_compress11 asm average cycles:
 146
 ```
 
-### GCC
+## GCC
 gcc (Homebrew GCC 13.3.0) 13.3.0
 
 ```
@@ -95,9 +112,14 @@ poly_compress11 asm average cycles:
 146
 ```
 
-## Cortex-A72 (Raspberry Pi 4)
+# Cortex-A72 (Raspberry Pi 4)
 
-### Clang
+Type
+```
+./intdiv_speed
+```
+
+## Clang
 
 Ubuntu clang version 15.0.7
 
@@ -144,7 +166,7 @@ poly_compress11 asm median cycles:
 673
 ```
 
-### GCC
+## GCC
 
 gcc (Ubuntu 12.3.0-1ubuntu1~23.04) 12.3.0
 

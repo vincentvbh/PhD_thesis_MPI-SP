@@ -1,4 +1,13 @@
 
+This folder contains micro-benchmark of some instructions in Armv8-A where their performance characteristics are not entirely documented.
+
+Below are the instructions tested here:
+
+- `dup`
+- `mov`
+- `sri`
+- `xtn`
+
 # Compile
 
 ```
@@ -7,7 +16,7 @@ make
 
 # Apple M1 Pro
 
-Run
+Type
 ```
 sudo ./bench
 ```
@@ -83,7 +92,7 @@ sri 2D average cycles:
 
 # Cortex-A72
 
-Run
+Type
 ```
 ./bench
 ```

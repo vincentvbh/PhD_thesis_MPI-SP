@@ -14,9 +14,6 @@
 
 **/polymul_small
 **/polymul_small_speed
-**/mulmod
-**/intdiv
-**/intdiv_speed
 
 **/dilithium_ntt
 **/dilithium_ntt_speed
