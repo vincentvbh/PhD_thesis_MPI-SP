@@ -1,7 +1,18 @@
 
+# Compile
+
+```
+make
+```
+
 # Apple M1 Pro
 
+Run
+```
+sudo ./bench
+```
 
+Output:
 ```
 loaded db: a14 (Apple A14/M1)
 number of fixed counters: 2
@@ -72,6 +83,12 @@ sri 2D average cycles:
 
 # Cortex-A72
 
+Run
+```
+./bench
+```
+
+Output:
 ```
 dup w to vecB median cycles:
 8209

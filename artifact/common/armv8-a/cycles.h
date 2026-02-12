@@ -39,7 +39,7 @@ static int cmp_uint64(const void *a, const void *b){
 
 #define LOOP_INIT(__clock0, __clock1) {}
 #define LOOP_TAIL(__f_string, records, __clock0, __clock1) { \
-    qsort(records, sizeof(uint64_t), NTESTS, cmp_uint64); \
+    qsort(records, NTESTS, sizeof(uint64_t), cmp_uint64); \
     printf(__f_string " median cycles:\n" CYCLE_TYPE "\n", records[NTESTS >> 1]); \
 }
 #define BODY_INIT(__clock0, __clock1) { \
